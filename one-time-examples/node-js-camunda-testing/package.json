@@ -1,0 +1,19 @@
+{
+  "name": "js-camunda-testing",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "camunda-external-task-client-js": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.8",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0",
+    "testcontainers": "^10.18.0"
+  }
+}
