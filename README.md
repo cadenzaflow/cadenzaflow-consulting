@@ -1,4 +1,4 @@
-Camunda Consulting Examples
+CadenzaFlow Consulting Examples
 ===========================
 
 This repository contains examples, code snippets and demo applications build by the Camunda Consulting Team
